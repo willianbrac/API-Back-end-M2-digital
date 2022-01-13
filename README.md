@@ -1,4 +1,3 @@
-# Feito por Willian Brandão Mendonça
 
 # TECNOLOGIAS
 ## Node.js
